@@ -1,0 +1,31 @@
+{
+	"id" : "homecenter",
+	"name" : "HomeCenter",
+	"description" :  {
+		"fr_FR":"HomeCenter est un plugin permettant d'utiliser les équipements de votre box Fibaro"
+		},
+
+	"licence" : "AGPL",
+	"author" : "HC-Domotique (F. LALLEMAND)",
+	"require" : "3.2",
+	"hasOwnDeamon" : false,	
+	"hasDependency" : false,
+	"category" : "automation protocol",
+	
+	"changelog" : "https://jeedom.github.io/plugin-template/#language#/changelog",
+	"documentation" : "https://jeedom.github.io/plugin-template/#language#/",
+	
+	"changelog_beta" : "https://jeedom.github.io/plugin-template/#language#/beta/changelog",
+	"documentation_beta" : "https://jeedom.github.io/plugin-template/#language#/beta/",
+	
+	"link" : {
+		"forum":"Lien vers le forum",
+		"video" : "Lien vers une video"
+	},
+
+	"language": [
+		"fr_FR"
+	],
+
+	"compatibility" : "all"	
+}
